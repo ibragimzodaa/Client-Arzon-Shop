@@ -17,7 +17,6 @@ export default function RootLayout({ children }) {
       <head>
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
-        <script src="//code.jivo.ru/widget/Ve7XTkHdJH" async></script>\
       </head>
       <body>
         <Header />
