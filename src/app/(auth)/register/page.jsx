@@ -37,6 +37,7 @@ export default function Registration() {
     <div className="min-h-screen flex justify-center items-center bg-gray-100">
       <div className="w-full max-w-md bg-white p-8 rounded-lg shadow-lg">
         <div className="flex justify-center mb-6">
+          <h1 className="text-center text-[30px]">Register</h1>
         </div>
 
         <form onSubmit={handleAdd} className="space-y-4">
