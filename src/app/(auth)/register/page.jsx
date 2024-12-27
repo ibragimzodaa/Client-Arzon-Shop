@@ -37,11 +37,6 @@ export default function Registration() {
     <div className="min-h-screen flex justify-center items-center bg-gray-100">
       <div className="w-full max-w-md bg-white p-8 rounded-lg shadow-lg">
         <div className="flex justify-center mb-6">
-          <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVwRBxzt2CKyBQpzADMJaaOzG9d_mZ9lWEw&s"
-            alt="Instagram"
-            className="w-[200px] m-[auto]"
-          />
         </div>
 
         <form onSubmit={handleAdd} className="space-y-4">
